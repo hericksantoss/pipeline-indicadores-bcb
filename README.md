@@ -10,7 +10,36 @@ publica os indicadores neste README. Roda **sozinho todo dia útil** via GitHub 
 ## Indicadores (atualizado automaticamente)
 
 <!-- INDICADORES:INICIO -->
-_Aguardando a primeira execução do pipeline._
+_Última execução do pipeline: 12/11/2026_
+
+| Indicador | Último valor | Referência |
+|---|---|---|
+| Dólar americano (venda) | 5,6143 R$ | 12/11/2026 |
+| Euro (venda) | 6,2133 R$ | 12/11/2026 |
+| Meta da taxa Selic (Copom) | 13,75 % a.a. | 12/11/2026 |
+| IPCA - variação mensal | 0,14 % | 10/2026 |
+| Variação do dólar no ano | 2,03 % | desde 31/12 do ano anterior |
+| IPCA acumulado em 12 meses | 4,63 % | até 2026-10 |
+| Juro real aproximado (Selic − IPCA 12m) | 8,72 % a.a. | 2026-10 |
+
+**Últimos 12 meses (camada gold)**
+
+| Mês | Dólar médio | Euro médio | Selic meta | IPCA mês | IPCA 12m |
+|---|---|---|---|---|---|
+| 2026-11 | 5,5260 | 6,1698 | 13,75 | — | — |
+| 2026-10 | 5,1294 | 5,7437 | 13,75 | 0,14 | 4,63 |
+| 2026-09 | 5,1447 | 5,9186 | 13,75 | 0,82 | 4,58 |
+| 2026-08 | 5,1532 | 5,9747 | 14,00 | -0,32 | 4,22 |
+| 2026-07 | 5,1139 | 5,8421 | 14,25 | 0,07 | 4,44 |
+| 2026-06 | 5,1276 | 5,9009 | 14,25 | 0,16 | 4,64 |
+| 2026-05 | 4,9837 | 5,8186 | 14,50 | 0,58 | 4,72 |
+| 2026-04 | 5,0331 | 5,8900 | 14,50 | 0,67 | 4,39 |
+| 2026-03 | 5,2316 | 6,0446 | 14,75 | 0,88 | 4,14 |
+| 2026-02 | 5,2006 | 6,1472 | 15,00 | 0,70 | 3,81 |
+| 2026-01 | 5,3380 | 6,2660 | 15,00 | 0,33 | 4,44 |
+| 2025-12 | 5,4531 | 6,3887 | 15,00 | 0,33 | 4,26 |
+
+![Dólar e Selic](data/gold/grafico.png)
 <!-- INDICADORES:FIM -->
 
 ## Arquitetura
