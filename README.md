@@ -10,15 +10,15 @@ publica os indicadores neste README. Roda **sozinho todo dia útil** via GitHub 
 ## Indicadores (atualizado automaticamente)
 
 <!-- INDICADORES:INICIO -->
-_Última execução do pipeline: 12/11/2026_
+_Última execução do pipeline: 14/11/2026_
 
 | Indicador | Último valor | Referência |
 |---|---|---|
-| Dólar americano (venda) | 5,6143 R$ | 12/11/2026 |
-| Euro (venda) | 6,2133 R$ | 12/11/2026 |
-| Meta da taxa Selic (Copom) | 13,75 % a.a. | 12/11/2026 |
+| Dólar americano (venda) | 5,6518 R$ | 13/11/2026 |
+| Euro (venda) | 6,2334 R$ | 13/11/2026 |
+| Meta da taxa Selic (Copom) | 13,75 % a.a. | 14/11/2026 |
 | IPCA - variação mensal | 0,14 % | 10/2026 |
-| Variação do dólar no ano | 2,03 % | desde 31/12 do ano anterior |
+| Variação do dólar no ano | 2,72 % | desde 31/12 do ano anterior |
 | IPCA acumulado em 12 meses | 4,63 % | até 2026-10 |
 | Juro real aproximado (Selic − IPCA 12m) | 8,72 % a.a. | 2026-10 |
 
@@ -26,7 +26,7 @@ _Última execução do pipeline: 12/11/2026_
 
 | Mês | Dólar médio | Euro médio | Selic meta | IPCA mês | IPCA 12m |
 |---|---|---|---|---|---|
-| 2026-11 | 5,5260 | 6,1698 | 13,75 | — | — |
+| 2026-11 | 5,5400 | 6,1769 | 13,75 | — | — |
 | 2026-10 | 5,1294 | 5,7437 | 13,75 | 0,14 | 4,63 |
 | 2026-09 | 5,1447 | 5,9186 | 13,75 | 0,82 | 4,58 |
 | 2026-08 | 5,1532 | 5,9747 | 14,00 | -0,32 | 4,22 |

@@ -1,0 +1,18 @@
+{
+ "serie": "ipca",
+ "codigo_sgs": 433,
+ "extraido_em": "2026-11-14T01:21:12+00:00",
+ "periodo_inicio": "2026-09-21",
+ "periodo_fim": "2026-11-14",
+ "quantidade": 2,
+ "registros": [
+  {
+   "data": "01/09/2026",
+   "valor": "0.82"
+  },
+  {
+   "data": "01/10/2026",
+   "valor": "0.14"
+  }
+ ]
+}
