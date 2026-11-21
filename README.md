@@ -10,13 +10,13 @@ publica os indicadores neste README. Roda **sozinho todo dia útil** via GitHub 
 ## Indicadores (atualizado automaticamente)
 
 <!-- INDICADORES:INICIO -->
-_Última execução do pipeline: 20/11/2026_
+_Última execução do pipeline: 21/11/2026_
 
 | Indicador | Último valor | Referência |
 |---|---|---|
 | Dólar americano (venda) | 5,8889 R$ | 19/11/2026 |
 | Euro (venda) | 6,4672 R$ | 19/11/2026 |
-| Meta da taxa Selic (Copom) | 13,75 % a.a. | 20/11/2026 |
+| Meta da taxa Selic (Copom) | 13,75 % a.a. | 21/11/2026 |
 | IPCA - variação mensal | 0,14 % | 10/2026 |
 | Variação do dólar no ano | 7,02 % | desde 31/12 do ano anterior |
 | IPCA acumulado em 12 meses | 4,63 % | até 2026-10 |
